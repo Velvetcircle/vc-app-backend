@@ -1,7 +1,6 @@
 {
   "name": "velvetcircle-backend",
   "version": "1.0.0",
-  "description": "Backend for Velvet Circle",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,6 +9,7 @@
   "dependencies": {
     "express": "^4.18.2",
     "cors": "^2.8.5",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "nodemailer": "^6.9.4"
   }
 }
